@@ -1,4 +1,4 @@
-# Question-rio-em-Python
+# Questionrio-em-Python
 
 Neste desafio construi um questionário com 5 perguntas e com 5 alternativas de reposta.
 Para contruir esse sistemas foi necessários conhecimentos em Loops, Dict, Listas, inputs, funções e condicionais.
